@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Lam — a first-year student at **Bucknell University**, focused on cybersecurity.
+
+CompTIA Security+ certified, Top 3% on TryHackMe. Currently building out hands-on
+skills in blue-team work and network defense.
+
+**🔍 Seeking a Summer 2027 internship** in AI engineering, SOC, security operations, vulnerability management, threat intelligence, incident response, IT security, network security, and security research internships.
+
+📫 phn001@bucknell.edu
+
+---
+
 ## 🏆 Achievements
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/LiamNg1307)
