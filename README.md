@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I'm Lam — a first-year student at **Bucknell University**, focused on cybersecurity.
 
 CompTIA Security+ certified, Top 3% on TryHackMe. Currently building out hands-on
 skills in blue-team work and network defense.
