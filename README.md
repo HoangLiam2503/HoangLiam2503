@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-CompTIA Security+ certified, Top 3% on TryHackMe. Currently building out hands-on
+CompTIA Security+ certified, Top 2% globally on TryHackMe. Currently building out hands-on
 skills in blue-team work and network defense.
 
 **🔍 Seeking a Summer 2027 internship** in AI engineering, SOC, security operations, vulnerability management, threat intelligence, incident response, IT security, network security, and security research internships.
@@ -14,7 +14,7 @@ skills in blue-team work and network defense.
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/LiamNg1307)
 
-- **TryHackMe** — Top 3% global ranking · [View profile](https://tryhackme.com/p/LiamNg1307)
+- **TryHackMe** — Top 2% global ranking · [View profile](https://tryhackme.com/p/LiamNg1307)
 
 ## 📜 Certifications
 
